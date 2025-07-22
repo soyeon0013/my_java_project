@@ -6,6 +6,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
-        System.out.printf("여러분 안녕하세요!");
+        System.out.printf("하하하하하하하");
     }
 }
